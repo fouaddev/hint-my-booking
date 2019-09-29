@@ -5,6 +5,11 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
-  title = 'hint-my-booking';
+  title = 'hint-my-booking from app.component.ts';
+
+  handleClick() {
+    alert('clicked!!!');
+  }
 }
