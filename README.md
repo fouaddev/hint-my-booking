@@ -1,7 +1,8 @@
 # HintMyBooking
 
 This is a peer to peer rental app built with @angular/cli@8.3.6, csslint@1.0.5, jshint@2.10.2, npm@6.9.0, typescript@3.6.3.
-to find global dependencies, run: 
+
+To find global dependencies, run: 
 npm list -global --depth 0
 
 ## Development server
