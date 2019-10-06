@@ -2,6 +2,7 @@
 
 This is a peer to peer home rental sharing web app built with the MEAN stack.
 
+## Global dependencies
 To find global dependencies, run: 
 npm list -global --depth 0
 
